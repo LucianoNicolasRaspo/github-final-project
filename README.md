@@ -8,6 +8,3 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*
-
-   
-2025 XYZ, Inc.
